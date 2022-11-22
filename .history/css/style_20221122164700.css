@@ -5,22 +5,19 @@
     height: 30px;
     width: 100%;
     right: 0px;
-    left: 0px;
     top: 0px;
-
-}
-.topbar-nav{
     text-align: center;
 }
+
 .topbar-nav li{
     list-style: none;
     float: left;
     font-family:'Times New Roman', Times, serif;
     font-size: 12px;
-    text-align: center;
+
 }
-.topbar-nav ul{
-    display: inline-block;
+.topbar-nav li ul{
+
 }
 .topbar-nav a:hover{
     color: white;

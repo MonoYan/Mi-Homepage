@@ -5,13 +5,10 @@
     height: 30px;
     width: 100%;
     right: 0px;
-    left: 0px;
     top: 0px;
 
 }
-.topbar-nav{
-    text-align: center;
-}
+
 .topbar-nav li{
     list-style: none;
     float: left;
@@ -19,7 +16,7 @@
     font-size: 12px;
     text-align: center;
 }
-.topbar-nav ul{
+.topbar-nav li ul{
     display: inline-block;
 }
 .topbar-nav a:hover{
